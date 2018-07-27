@@ -1,0 +1,1 @@
+web: gunicorn fredapp_project.wsgi --log-file -
